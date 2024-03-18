@@ -195,7 +195,6 @@ private extension MainView {
     func setup() {
         backgroundColor = .black
     }
-
     /// Настройка взаимодействия с дата слоем
     func setupBindings() {
         // Добавьте слушатель уведомлений
