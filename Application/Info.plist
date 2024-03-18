@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+	</dict>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>Пожалуйста, разрешите доступ к сохранению фотографий в вашей библиотеке фотографий.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Вы можете выбрать фотографии для прикрепления к отчетам.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Это приложение будет использовать камеру.</string>
+</dict>
+</plist>

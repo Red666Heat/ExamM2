@@ -1,0 +1,25 @@
+#strings:
+#  inputs: Tezber/Resources/en.lproj
+#  outputs:
+#    - templateName: structured-swift4
+#      output: Tezber/Resources/Generated/Strings.swift
+#      params:
+#        publicAccess: 1
+
+xcassets:
+    inputs:
+    - Resources/Resources/Images.xcassets
+    - Resources/Resources/Colors.xcassets
+    outputs:
+      - templateName: swift4
+        output: Resources/Generated/Assets.swift
+        params:
+          publicAccess: 1
+
+#xcassets:
+#    inputs: Tezber/Resources/Color.xcassets
+#    outputs:
+#      - templateName: swift4
+#        output: Tezber/Resources/Generated/Colors.swift
+#        params:
+#          publicAccess: 1
